@@ -1,0 +1,34 @@
+{
+  "exbVersion": "1.14.0",
+  "name": "table-exporter",
+  "label": "Таблица с экспортом",
+  "description": "Таблица с экспортом в Excel/CSV/PDF",
+  "author": "Ilkhom Khamdamov",
+  "dependencies": [
+    "https://unpkg.com/jspdf@2.5.1/dist/jspdf.umd.min.js",
+    "https://unpkg.com/jspdf-autotable@3.8.2/dist/jspdf.plugin.autotable.min.js"
+  ],
+  "type": "widget",
+  "properties": {},
+  "translatedLocales": [
+    "ru",
+    "en"
+  ],
+  "icon": "icon.svg",
+  "defaultSize": {
+    "width": 600,
+    "height": 420
+  },
+  "setting": {
+    "hasSettingPage": true,
+    "hasBuilderSettingPage": false
+  },
+  "supportDataSourceTypes": [
+    "FeatureLayer"
+  ],
+  "supportDataAction": false,
+  "supportAutoBinding": true,
+  "supportInlineEditing": false,
+  "category": "data",
+  "version": "1.0.0"
+}

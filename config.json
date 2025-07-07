@@ -1,0 +1,10 @@
+{
+  "useDataSources": [
+    {
+      "dataSourceId": "",
+      "mainDataSourceId": "",
+      "rootDataSourceId": "",
+      "fields": []
+    }
+  ]
+}
