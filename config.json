@@ -1,10 +1,30 @@
 {
   "useDataSources": [
     {
-      "dataSourceId": "",
+      "dataSourceId": "dataSource_5-225",
+      "mainDataSourceId": "main_xxx",
+      "rootDataSourceId": "root_xxx",
+      "fields": []
+    },
+    {
+      "dataSourceId": "dataSource_7-46",
       "mainDataSourceId": "",
       "rootDataSourceId": "",
       "fields": []
     }
-  ]
+  ],
+  "bigTableId": "dataSource_5-225",
+  "bigTableLabel": "Suv ombori",
+  "smallTableId": "dataSource_7-46",
+  "smallTableLabel": "Suv olchovi",
+  "filterFields": {
+    "dataSource_5-225": {
+      "filterField": "yil",
+      "filterField2": ""
+    },
+    "dataSource_7-46": {
+      "filterField": "",
+      "filterField2": ""
+    }
+  }
 }

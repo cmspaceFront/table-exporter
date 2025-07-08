@@ -1,6 +1,6 @@
 {
   "exbVersion": "1.14.0",
-  "name": "table-exporter",
+  "name": "table-exporter-v2",
   "label": "Таблица с экспортом",
   "description": "Таблица с экспортом в Excel/CSV/PDF",
   "author": "Ilkhom Khamdamov",
