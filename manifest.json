@@ -1,6 +1,6 @@
 {
   "exbVersion": "1.14.0",
-  "name": "table-exporter-v2",
+  "name": "table-exporter",
   "label": "Таблица с экспортом",
   "description": "Таблица с экспортом в Excel/CSV/PDF",
   "author": "Ilkhom Khamdamov",
@@ -11,8 +11,7 @@
   "type": "widget",
   "properties": {},
   "translatedLocales": [
-    "ru",
-    "en"
+    "ru"
   ],
   "icon": "icon.svg",
   "defaultSize": {
